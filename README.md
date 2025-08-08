@@ -39,11 +39,10 @@ The dataset contains sales transactions with:
 
 ---
 
-## File]( Structure
+## Files
 
 - <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/Retail%20store%20project.xlsx">Dataset</a>
 - <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/Screenshot%202025-07-09%20170448.png">Dashbord</a>
-- <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/retail_sales_dashboard_2024_presentation.pptx">Presentation</a>
 
 ---
 
