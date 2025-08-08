@@ -39,9 +39,9 @@ The dataset contains sales transactions with:
 
 ---
 
-## File Structure
-```plaintext
-data/               # Raw dataset in Excel
+## File]( Structure
+
+- <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/Retail%20store%20project.xlsx">Retail Sales Data</a>
 dashboard/          # Interactive Excel dashboard
 images/             # Screenshots & charts for GitHub preview
 docs/               # Presentation & methodology notes
