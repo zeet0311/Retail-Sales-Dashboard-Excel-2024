@@ -41,13 +41,9 @@ The dataset contains sales transactions with:
 
 ## File]( Structure
 
-- <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/Retail%20store%20project.xlsx">Retail Sales Data</a>
-dashboard/          # Interactive Excel dashboard
-images/             # Screenshots & charts for GitHub preview
-docs/               # Presentation & methodology notes
-README.md           # Main GitHub page
-LICENSE             # Optional license file
-```
+- <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/Retail%20store%20project.xlsx">Dataset</a>
+- <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/Screenshot%202025-07-09%20170448.png">Dashbord</a>
+- <a href="https://github.com/zeet0311/Retail-Sales-Dashboard-Excel-2024/blob/main/retail_sales_dashboard_2024_presentation.pptx">Presentation</a>
 
 ---
 
@@ -58,7 +54,8 @@ LICENSE             # Optional license file
 ---
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+<img width="1836" height="653" alt="Screenshot 2025-07-09 170448" src="https://github.com/user-attachments/assets/2763f9a1-7bd9-4ae3-9ad4-20716a73eba8" />
+
 
 ---
 
