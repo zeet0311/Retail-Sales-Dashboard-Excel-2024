@@ -59,5 +59,5 @@ The dataset contains sales transactions with:
 ---
 
 ## Author
-*Zeet Limbachia – Data Analyst  
-📧 Email: zeetlimbachiya30@gmail.com
+*Zeet Limbachiya – Data Analyst  
+📧 Email: zeetlimbachiya11@gmail.com
